@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Morbus epidemicus: or The disease of the latter dayes: discovered and laid open in a sermon out of the II Ep. of Timothy, ch. 4, v. 3, 4. / By John Ramsey, minister of East Rudham in the county of Norfolk.</title>
+            <author>Ramsey, John, Minister of East Rudham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92077</idno>
+            <idno type="STC">Wing R224</idno>
+            <idno type="STC">Thomason E892_2</idno>
+            <idno type="STC">ESTC R631</idno>
+            <idno type="EEBO-CITATION">99872967</idno>
+            <idno type="PROQUEST">99872967</idno>
+            <idno type="VID">168415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168415)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Morbus epidemicus: or The disease of the latter dayes: discovered and laid open in a sermon out of the II Ep. of Timothy, ch. 4, v. 3, 4. / By John Ramsey, minister of East Rudham in the county of Norfolk.</title>
+                  <author>Ramsey, John, Minister of East Rudham.</author>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, and are to be sold by Philip Briggs, at the Dolphin in St. Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M. DC. LVI. [1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2nd IV, 3-4 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168415:1" rendition="simple:additions"/>
+            <p>
+               <hi>MORB<g ref="char:V">Ʋ</g>S EPIDEMIC<g ref="char:V">Ʋ</g>S:</hi> OR The Diſeaſe of the Latter Dayes: Diſcovered and laid open in a SERMON Out of The II Ep. of <hi>Timothy</hi> ch. 4. v. 3, 4.</p>
+            <p>By JOHN RAMSEY, Miniſter of <hi>Eaſt-Rudham</hi> In the County of <hi>Norfolk.</hi>
+            </p>
+            <q>
+               <p>We would have healed <hi>Babylon,</hi> but ſhe is not healed,</p>
+               <bibl>
+                  <hi>Jerem. 51.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>Livy <hi>of the</hi> Romane State, <hi>p. 3.</hi>
+               </bibl>
+               <p>Ad haec tempora, quibus nec vitia noſtra, nec remedia pati poſſumus, perventum eſt.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid,</hi> and are to be ſold by <hi>Philip Briggs,</hi> at the <hi>Dolphin</hi> in St. <hi>Paul</hi>'s <hi>Church-yard. M.DC.LVI.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168415:2"/>
+            <pb facs="tcp:168415:2"/>
+            <head>To his right worthy and Learned Friend, Mr. JAMES DUPORT, One of the Senior Fellows, and Vice-Maſter of <hi>Trinity</hi> Colledge in <hi>Cambridge.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was the grave ad<g ref="char:EOLhyphen"/>vice of St. <hi>Hierom</hi> to his friend <hi>Ruſti<g ref="char:EOLhyphen"/>cus;</hi>
+               <note place="margin">Hierom. ad Ruſtic. Ep. 39.</note> 
+               <hi>Ne ad ſcriben<g ref="char:EOLhyphen"/>dum citò proſilias, &amp; levi ducaris inſania.</hi> If I have ſeemingly tranſgreſſed the Rule of the Ancient, and this <hi>Citò</hi> be obje<g ref="char:EOLhyphen"/>cted and laid to my charge, as an ar<g ref="char:EOLhyphen"/>gument of over-much lightneſs; I ſuppoſe, they that know me in part, will readily become (though not my
+<pb facs="tcp:168415:3"/>Advocates, yet) my Compurgators. And that number of yeers with a ſurpluſage, which exempted and diſ<g ref="char:EOLhyphen"/>charged the Levites under the Law from the burden of their Office; will be thought a ſufficient warrant, ſo far forth as concerneth the Age of the Publiſher, to licenſe the <hi>Sermon</hi> to the Preſs. As for the <hi>Sermon</hi> it ſelf, the Subject matter of it is ſpent in the Diſcovery of the Diſ<g ref="char:EOLhyphen"/>eaſe of the Latter Dayes: A diſeaſe ſo much the more dangerous, by how much it is the more common and Epi<g ref="char:EOLhyphen"/>demical.</p>
+            <p>It is obſerved of our bleſſed Savi<g ref="char:EOLhyphen"/>our, upon his firſt entrance into his publick Office, <hi>Matth. 4.23. And Jeſus went about all</hi> Galilee, <hi>tea<g ref="char:EOLhyphen"/>ching in their Synagogues, and preaching the Goſpel of the King<g ref="char:EOLhyphen"/>dome;
+<pb facs="tcp:168415:3"/>and healing all manner of ſickneſs, and all manner of diſeaſe among the People.</hi> And I have herein followed, after a ſort, Chriſts example, and in my firſt eſſay in this kind, attempted the Cure of that which is (cauſally and virtually) <hi>all manner of ſickneſs, and all man<g ref="char:EOLhyphen"/>ner of diſeaſe among the Peo<g ref="char:EOLhyphen"/>ple;</hi> and that is, <hi>The not enduring Sound Doctrine.</hi> That the Remedy is accommodate to the Diſtemper of the preſent Times, I ſuppoſe will not be denyed. And I ſhall accompany and ſend it into the world, with this hearty and pithy prayer, <hi>Faxit Deus ut ſit aeque commodum ac accom<g ref="char:EOLhyphen"/>modum;</hi> God grant it may prove as profitable as it is truly ſeaſonable. If the ſuccinct handling, and curſory diſpatch of the ſeveral parts be pre<g ref="char:EOLhyphen"/>judged
+<pb facs="tcp:168415:4"/>and cenſured as a fault: Let ſuch conſider, That he who adven<g ref="char:EOLhyphen"/>tures upon a long Journey, and is to call in at ſeveral places, muſt not pro<g ref="char:EOLhyphen"/>tract the time, nor ſtay long in any. And as for my choyce in the Dedica<g ref="char:EOLhyphen"/>tion, I ſhall make uſe of no other Apologie then that known Rule in the Civil Law;<note place="margin">Regulae Juvis.</note> 
+               <hi>Mancipato Patre, mancipantur &amp; Liberi.</hi> I may add, <hi>Etiam &amp; Libri,</hi> and the Truth is one and the ſame. The Father hath been long ſince bound unto you with the cords of a Man, with bands of Love, many real and liberal favours. And now this ſorry <hi>Sermon</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex. Lib. <hi>1.</hi> Stron.</note> as a Childe of the ſame Parent, becomes bound unto you. But I muſt not ex<g ref="char:EOLhyphen"/>ceed the meaſure of an Epiſtle; and am therein cautioned by the Pen of a Heathen: The Letters of Friends
+<pb facs="tcp:168415:4"/>and Lovers muſt not be over-long, nor fill both Hands.</p>
+            <p>I have no more to ſay; But that next the glory of God, and the com<g ref="char:EOLhyphen"/>mon Benefit of his Church, the pro<g ref="char:EOLhyphen"/>priety and particular intereſt in this poor Piece, and Paper preſent, is wholly yours together with the Au<g ref="char:EOLhyphen"/>thor,</p>
+            <closer>
+               <signed>Your very affectionate and obſervant Friend JOHN RAMSEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168415:5"/>
+            <pb n="1" facs="tcp:168415:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Tim. 4.3, 4.</hi>
+                  </bibl>
+                  <p>For the time will come, when they will not endure ſound Doctrine, but after their own luſts ſhall they heap to them<g ref="char:EOLhyphen"/>ſelves Teachers, having itching ears.</p>
+                  <p>And they ſhall turn away their ears from the Truth, and ſhall be turned after Fa<g ref="char:EOLhyphen"/>bles.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt words of the Text,<note place="margin">The cohe<g ref="char:EOLhyphen"/>rence of the Text.</note> which ſtand as a Porter or Portall, at the Door of Entrance, and lead us into the inner Rooms, <hi>[For the time will come]</hi> imply and point out unto us; that the Text is a <hi>Prophecy,</hi> which in the genuine accepti<g ref="char:EOLhyphen"/>on and ſignification of the word, is a Predicti<g ref="char:EOLhyphen"/>on or foretelling of things to come. For the Writings of <hi>Paul</hi> to <hi>Timothy,</hi> though they paſs under the name of <hi>Epiſtles,</hi> Letters of directi<g ref="char:EOLhyphen"/>on and advice, ſent from him as an Apoſtle of <hi>Chriſt,</hi> and a Meſſenger of the Churches: yet in theſe <hi>Epiſtles</hi> of his, there are ſeveral inter<g ref="char:EOLhyphen"/>ſperſions and ſprinklings of <hi>Prophecy,</hi> three
+<pb n="2" facs="tcp:168415:6"/>whereof are very obſervable and remarkable above the reſt.</p>
+            <p>The firſt Prophecy concerns that grand Apo<g ref="char:EOLhyphen"/>ſtacy and falling away from the Faith once deli<g ref="char:EOLhyphen"/>vered to the Saints, by Popiſh idolatry and ſu<g ref="char:EOLhyphen"/>perſtition, 1 <hi>Tim.</hi> 4.1. <hi>Now the Spirit ſpeaketh ex<g ref="char:EOLhyphen"/>preſly, that in the later Times ſome ſhall depart from the Faith, giving heed to ſeducing ſpirits,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to ſpirits of errour,</hi> (by an uſual <hi>Hebraiſm</hi>) <hi>and Doctrines of Devils.</hi>
+            </p>
+            <p>The ſecond <hi>Prophecy</hi> reſpects the general Athe<g ref="char:EOLhyphen"/>iſm and profaneneſs of mens lives, 2 <hi>Tim.</hi> 3.1. <hi>This know alſo, that in the laſt days perilous Times ſhall come.</hi> Heretical <hi>Doctrines of Devils,</hi> (as the <hi>Apoſtle</hi> ſtiles them) are the Product of the later Times. But the deplorable looſneſs and lewdneſs of mens manners are the iſſue of the laſt days, and ſo nearer the end of the world, than the former. This the <hi>Apoſtle</hi> makes good, by a particular enumeration of ſins and ſinners, <hi>Verſ.</hi> 3, 4, 5. <hi>For men ſhall be lovers of their own ſelves, covetous, boaſters, proud, blaſphemers, diſ<g ref="char:EOLhyphen"/>obedient to Parents, unthankfull, unholy.</hi> And then in the cloſe he claps in with this ſignal cha<g ref="char:EOLhyphen"/>racter, <hi>Verſ.</hi> 5. <hi>Having a form of godlineſs, but denying the power thereof;</hi> as a cloak and covering for all the reſt.</p>
+            <p>The third and laſt <hi>Prophecy</hi> is in the Text, and notes out unto us an utter averſneſs and abhor<g ref="char:EOLhyphen"/>rence from ſound Doctrine, which is the onely means to rectifie mens judgments in point of Faith, and to correct and reform their diſſolute<g ref="char:EOLhyphen"/>neſs; and renders them more impatient of the
+<pb n="3" facs="tcp:168415:6"/>Remedy than of the Malady. And ſo it follows in the Text, <hi>[For the Time ſhall come.]</hi>
+            </p>
+            <p>The Text then as it lies before you, holds forth and preſents unto your view the Diſeaſe of the later days, and for the more methodical and orderly reſolution of the words, we may take notice of a fivefold ſpecialty:
+<list>
+                  <item>1. The <hi>nature</hi> of the <hi>Diſeaſe</hi> ſpecified.<note place="margin">The diviſion of the Text.</note> They will <hi>[not endure ſound Doctrine.]</hi>
+                  </item>
+                  <item>2. The <hi>cauſe</hi> of the <hi>Diſeaſe,</hi> and that is their <hi>Luſts, [After their own luſts.]</hi>
+                  </item>
+                  <item>3. The <hi>ſigns</hi> or <hi>ſymptoms</hi> of the <hi>Diſcaſe,</hi> and they are two:
+<list>
+                        <item>1. The firſt is in the <hi>ear, [Having itching ears.]</hi>
+                        </item>
+                        <item>2. The ſecond is, the ſatisfying or <hi>ſcratching</hi> this itching ear with a multiplied variety of Inſtructors, <hi>[They ſhall heap to themſelves Teachers.]</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>4. The <hi>effect</hi> of the <hi>Diſeaſe;</hi> and that is dou<g ref="char:EOLhyphen"/>ble, (wherein as in every motion) there are two <hi>Terms:</hi>
+                     <list>
+                        <item>1. There is the <hi>Terminus à quo, [They ſhall turn away their ears from the Truth.]</hi>
+                        </item>
+                        <item>2. There is the <hi>Terminus ad quem, [And ſhall be turned after Fables.]</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>5. The circumſtance of the <hi>Time,</hi> when the <hi>Diſeaſe</hi> ſhall be in the Paroxyſm, in the full heat and heighth. And that we have in the firſt words of the Text, <hi>[For the time ſhall come.]</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:168415:7"/>
+            <p>They will not endure <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">The firſt part. The nature of the Diſ<g ref="char:EOLhyphen"/>eaſe.</note> 
+               <hi>ſound Doctrine.</hi> A <hi>Metaphor</hi> or borrowed ſpeech ta<g ref="char:EOLhyphen"/>ken up from the natural <hi>Food</hi> or <hi>Phyſick</hi> of the Body; and in a figurative and a ſpiritual ſenſe, tranſlated and applied unto the <hi>Soul.</hi> For the Soul, as it ſtands in need, ſo it hath its proper <hi>Food</hi> and <hi>Phyſick,</hi> aſwell as the Body, and that is <hi>the Word of God.</hi>
+            </p>
+            <p>The Word of God is the Food of the Soul,<note place="margin">1. The Word the Food of the Soul.</note> whereby it lives, as the Body, by the natural nouriſhment, <hi>Food</hi> for all ſorts of Chriſtians. <hi>Milk</hi> for new-born Infants and Babes in Chriſt: <hi>Meat, ſtrong Meat</hi> to thoſe that are of full age, <hi>Even thoſe that by reaſon of uſe have their ſenſes exerciſed to diſcern both good and evil. Heb.</hi> 5.13, 14.</p>
+            <p>And as the <hi>Word</hi> of <hi>God</hi> is the <hi>Food,</hi>
+               <note place="margin">2. The Word the Phyſick of the Soul.</note> ſo is it likewiſe the <hi>Phyſick</hi> of the Soul. A <hi>Metaphor</hi> whereunto St. <hi>Paul</hi> alludes, and whereat he fre<g ref="char:EOLhyphen"/>quently glances through theſe <hi>Epiſtles.</hi> If any man conſent not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>To wholeſome words, even to the words of our Lord Jeſus Chriſt.</hi> 1 <hi>Tim.</hi> 6.3.</p>
+            <p>And the Apoſtle elſewhere commends it to his Scholar <hi>Timothy</hi> under the ſame name and title, 2 <hi>Tim.</hi> 1. <hi>v.</hi> 13. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Hold faſt the form of wholeſome words.</hi>
+            </p>
+            <p>This <hi>Phyſick</hi> of the Soul may be ſaid to be <hi>wholeſome words,</hi> or <hi>ſound Doctrine,</hi> in two re<g ref="char:EOLhyphen"/>ſpects:
+<list>
+                  <item>1. Firſt, <hi>formally,</hi> and in its own nature, as be<g ref="char:EOLhyphen"/>ing healthfull in it ſelf.</item>
+                  <item>2. Secondly, <hi>cauſally,</hi> by way of <hi>Energie</hi> and operation, as healing in the effect.</item>
+               </list>
+            </p>
+            <pb n="5" facs="tcp:168415:7"/>
+            <p>Firſt, ſound Doctrine is healthfull in it ſelf,<note place="margin">1. Firſt, healthfull in it own na<g ref="char:EOLhyphen"/>ture.</note> 
+               <note n="(a)" place="margin">Venenum a<g ref="char:EOLhyphen"/>liquando pro remedio fuit. Senec. de Benef. lib. <hi>2.</hi> c. <hi>18.</hi> Medici pedes &amp; alas Can<g ref="char:EOLhyphen"/>tharidis, cùm ipſa ſit morti<g ref="char:EOLhyphen"/>fera, prodeſſe dicunt. Plutarch. de audiend. Poetis.</note> and whereas the natural Phyſick is many times made up of rank and deadly Poyſon, yet ſo corrected and tempered by Art, that the ma<g ref="char:EOLhyphen"/>lignity and venome is taken out; and proves a ſoveraign Antidote and Preſervative. This ſpi<g ref="char:EOLhyphen"/>ritual Phyſick hath no Venome and Poyſon in it; but is altogether pure and ſimple, and every way ſuitable to the Souls health.</p>
+            <p>Two Ingredients there are in the Word of God that make it thus healthfull in it ſelf:<note place="margin">A double In<g ref="char:EOLhyphen"/>gredient in the Word.</note>
+            </p>
+            <list>
+               <item>1. The one <hi>Truth.</hi>
+               </item>
+               <item>2. The other <hi>Holineſs.</hi>
+               </item>
+            </list>
+            <p>The firſt Ingredient in the Word is Truth,<note place="margin">1. The firſt, Truth.</note> 
+               <hi>John</hi> 17. <hi>v.</hi> 17. <hi>Sanctifie them through thy Truth, thy Word is Truth.</hi> As being an exact <hi>Idea,</hi> a lively Portraicture, the perfect Copy and Coun<g ref="char:EOLhyphen"/>terpart of the minde and will of God.<note n="(b)" place="margin">Veritatem Philoſophia quaerit, Theo<g ref="char:EOLhyphen"/>logia invenit, Religio poſſidet. Joan. Picus Mirandula.</note> And as it is <hi>Truth</hi> in it ſelf, ſo it makes an impreſſion of Truth upon the Soul; even as the Seal ſtamps it own form and figure upon the body of the Wax. The Truth of Faith and Manners; Truth of Doctrine and Life, both theſe are the effects of the Word of God.</p>
+            <p>A ſecond Ingredient of ſound Doctrine is <hi>Holineſs,</hi> for as it teacheth men to believe aright,<note place="margin">2. The ſe<g ref="char:EOLhyphen"/>cond Ingredi<g ref="char:EOLhyphen"/>ent of the Word Holi<g ref="char:EOLhyphen"/>neſs.</note> ſo it likewiſe inſtructs them to live well; <hi>To live ſoberly, righteouſly, and godly in this preſent world.</hi>
+               <pb n="6" facs="tcp:168415:8"/>This is the proper<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. in Paedag. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ariſt. Ethic. l. <hi>1.</hi> c. <hi>1.</hi>
+               </note> End of it, to make men better to ſpiritualize their natures, to ſanctifie their affections, and to bring them unto happi<g ref="char:EOLhyphen"/>neſs. <hi>If any man conſent not to wholeſome words, and to the Doctrine which is according to godlineſs,</hi> 1 <hi>Tim.</hi> 6. <hi>v.</hi> 3. Thoſe onely are <hi>wholeſome words,</hi> that are <hi>according to godlineſs.</hi> This is the ſpeci<g ref="char:EOLhyphen"/>fical form, that diſtinguiſheth them from all o<g ref="char:EOLhyphen"/>ther. The Apoſtle reduces and referres theſe <hi>wholeſome words</hi> to two Heads, 2 <hi>Tim.</hi> 1. <hi>v.</hi> 13. <hi>Hold faſt the form of wholeſome words, which thou haſt heard of me in Faith and Love. Faith</hi> in Chriſt, and <hi>Love</hi> toward our Chriſtian Brethren; Theſe are the very abſtract and ſummary abridg<g ref="char:EOLhyphen"/>ment of <hi>ſound Doctrine.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. Healing in the effect.</note> 
+               <hi>ſound Doctrine</hi> is healing in the ef<g ref="char:EOLhyphen"/>fect: like unto the <hi>Tree</hi> of <hi>Life, which was planted in the ſtreets of the new</hi> Jeruſalem, <hi>that bare twelve manner of fruits, and the Leaves of the Tree were for the healing of the Nations. Revel.</hi> 22. <hi>v.</hi> 2.</p>
+            <p>The Word of God comes to have this heal<g ref="char:EOLhyphen"/>ing effect,<note place="margin">Two manner of ways.</note> two manner of ways:
+<list>
+                  <item>1. By a <hi>formal</hi> contrariety to the <hi>Diſeaſe.</hi>
+                  </item>
+                  <item>2. By a particular <hi>Application</hi> to the <hi>Patient.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt,<note place="margin">1. Firſt, by a formal con<g ref="char:EOLhyphen"/>trariety to the Diſeaſe.</note> the Word heals by way of contrariety to the Diſeaſe. And herein lies the difference betwixt <hi>Food</hi> and <hi>Phyſick.</hi>
+            </p>
+            <p>Food is the converſion of the nouriſhment into the ſubſtance of the Body. And in that reſpect, <hi>Nutrimur ſimilibus,</hi> we are nouriſhed by things of the ſame or like nature. But Phyſick is the removing of obſtructions, the disburthen<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:168415:8"/>of ſuperfluities, the purging out of ma<g ref="char:EOLhyphen"/>lignant humours. And therefore <hi>Morbi curan<g ref="char:EOLhyphen"/>tur contrariis, Diſeaſes</hi> are beſt cured by the contraries. There is a contrariety betwixt the Body and the Diſeaſe. And there is as great a contrariety betwixt the Diſeaſe and the Phy<g ref="char:EOLhyphen"/>ſick, 1 <hi>Tim.</hi> 1. <hi>v.</hi> 9, 10. <hi>The Law is not made for the righteous, but for the lawleſs, and for the diſo<g ref="char:EOLhyphen"/>bedient, and for the ungodly, and for ſinners.</hi> And if there be any other thing that is contrary to ſound Doctrine, notorious and enormous ſins, ſuch as are there rehearſed by the Apoſtle, are contrary to ſound Doctrine. And ſound Do<g ref="char:EOLhyphen"/>ctrine is every way as contrary to groſs and open ſins. And it declares and manifeſts this contra<g ref="char:EOLhyphen"/>riety by a free and round admonition, in a ſevere and ſharp reproof, <hi>Titus</hi> 1. <hi>v.</hi> 13. <hi>Rebuke them ſharply,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, cuttingly, after the manner of<note n="(d)" place="margin">Chirurgum miſericordem eſſe non oportet. Celſus.</note> 
+               <hi>Chirurgions,</hi> (as the word imports) <hi>that they may be ſound in the Faith.</hi>
+               <note n="(e)" place="margin">Nec deeſt cenſura quae increpet, nec medicina quae ſanet. Cyprian.</note> Cutting Reproofs, and the <hi>paring mens conſciences to the quick,</hi> are an excellent means to make men <hi>ſound in the Faith.</hi> There is no way to cure a Gangrene but by cut<g ref="char:EOLhyphen"/>ting off the part affected, and by<note n="(f)" place="margin">Quae ferro non curantur, ignis curat. Regula Medi<g ref="char:EOLhyphen"/>corum.</note> cauteriſing the mortified member. If this be not done ſpeedily, the whole Body muſt needs pe<g ref="char:EOLhyphen"/>riſh.</p>
+            <p>
+               <hi>The words of the wiſe are as Goads and Nails faſtned; Eccleſ.</hi> 12. <hi>v.</hi> 11. And what is the uſe of Goads, but to provoke and prick forward the dull Ox? And Nails muſt not onely be faſtned, but driven home to the Head. Even ſo the
+<pb n="8" facs="tcp:168415:9"/>words of the wiſe muſt<note n="(g)" place="margin">Si cujus ſer<g ref="char:EOLhyphen"/>mo non pungit ſed oblectatio<g ref="char:EOLhyphen"/>nem facit au<g ref="char:EOLhyphen"/>dientibus, iſte non eſt ſermo ſapientis, verba enim ſapien<g ref="char:EOLhyphen"/>tum ut ſt muli. Hieronym. in Eccleſ. cap. <hi>12.</hi> Pungit, non penetrat. Se<g ref="char:EOLhyphen"/>neca <hi>of</hi> Chry<g ref="char:EOLhyphen"/>ſip. Epiſt. <hi>1.</hi> ad Lucil.</note> 
+               <hi>Pungere non palpare,</hi> as <hi>Hierom</hi> well expreſſes it: They muſt <hi>pene<g ref="char:EOLhyphen"/>trate</hi> and pierce deep, not onely <hi>ſcarrifie</hi> or <hi>ſcratch</hi> the face of mens conſciences. The two Wit<g ref="char:EOLhyphen"/>neſſes had a <hi>Fire that went out of their mouth, that devoured their Enemies; Revel.</hi> 11. <hi>v.</hi> 6. And <hi>they tormented thoſe that dwelt upon the Earth; v.</hi> 10. And what was this <hi>tormenting Fire that went out of their mouths,</hi> but the ſcorching and burning heat of their Miniſtery, which con<g ref="char:EOLhyphen"/>ſumed their corruptions, even as the Fire licks up the Stubble. The Miniſters of Chriſt <hi>are the Salt of the Earth; Matth.</hi> 5. <hi>v.</hi> 13. ſo called by reaſon of their ſavoury Doctrine. And Salt hath an <hi>acrimony</hi> and ſharpneſs in it, it <hi>corrodes</hi> and frets, it ſucks up the putrid moiſture, and ſo prevents putrifaction: For howſoever erroneous and falſe Doctrine hath no ſavour nor ſharpneſs in it; As it was ſaid of the Popiſh <hi>Liturgy, Miſ<g ref="char:EOLhyphen"/>ſa non mordet,</hi> The Maſs hath no Teeth in it, it bites not at all. Yet true and ſound Doctrine bites where it faſtens, like unto a<note n="(h)" place="margin">Quae per in<g ref="char:EOLhyphen"/>ſuavitatem me<g ref="char:EOLhyphen"/>dentur, emo<g ref="char:EOLhyphen"/>lumento curati<g ref="char:EOLhyphen"/>onis offenſam ſui excuſant, &amp; praeſentem in<g ref="char:EOLhyphen"/>juriam ſuper<g ref="char:EOLhyphen"/>venturae utili<g ref="char:EOLhyphen"/>tatis gratiâ commendant. Tert. de Poenit. c. <hi>10.</hi>
+               </note> 
+               <hi>Purging Poti<g ref="char:EOLhyphen"/>on,</hi> it ſtirs and troubles the humour, it cauſes a grumbling in the conſcience, it puts it to ex<g ref="char:EOLhyphen"/>treme ſmart and pain, and hereby it heals and cures.</p>
+            <p>Secondly,<note place="margin">2. By a par<g ref="char:EOLhyphen"/>ticular appli<g ref="char:EOLhyphen"/>cation to the Patient.</note> the word heals by a particular ap<g ref="char:EOLhyphen"/>plication to the Patient. For this is a ſure Rule, <hi>Omne agens agit per contactum,</hi> Every agent works by way of contact, by a real touch of that Body whereon it acts, either immediately in the ſubſtance, or in the power and virtue of it.
+<pb n="9" facs="tcp:168415:9"/>This is very obſervable in the practice of <hi>Chi<g ref="char:EOLhyphen"/>rurgery</hi> and <hi>Phyſick,</hi> where the Plaiſter muſt be cloſe applied and laid upon the Sore; and the Potion muſt be inwardly received into the Bo<g ref="char:EOLhyphen"/>dy; otherwiſe it no way conduceth nor proves availſome unto health.</p>
+            <p>And ſo it is in the diſpenſation of the ſpiritual Phyſick, the preaching of the <hi>Goſpel,</hi> which con<g ref="char:EOLhyphen"/>ſiſts of theſe two parts, and ſtands upon them, as the ſeveral Legs, Explication and Applicati<g ref="char:EOLhyphen"/>on. And as it muſt be explained and opened in the ſenſe and meaning of the words, ſo it muſt be applied and brought home to the conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>That Phyſick which cures at one time may kill at another. And hereof<note n="(h)" place="margin">Aug. Ep. <hi>5.</hi> ad Marcellinum.</note> St. <hi>Auguſtine</hi> af<g ref="char:EOLhyphen"/>fords us a notable Example, in that famous Phy<g ref="char:EOLhyphen"/>ſician <hi>Vindicianus,</hi> who being ſent for to a young man in a dangerous ſickneſs, recovered and reſto<g ref="char:EOLhyphen"/>red him to his former health: but relapſing into his ſickneſs in his old age, and making uſe of the ſame Preſcript, which had formerly afforded him preſent help and remedy without the advice of his Phyſician;<note n="(i)" place="margin">Ideò malè ac<g ref="char:EOLhyphen"/>ceptus es, quia non ego juſſi illi aetati, jam hoc non ſe fuiſſe juſſurum. Vindicianus <hi>anſwer to the young man.</hi>
+               </note> it had like to have coſt him his life. And ſo it is with the ſpiritual Phy<g ref="char:EOLhyphen"/>ſick, which muſt be attempered to the preſent exigents and emergencies of Time, Place, Per<g ref="char:EOLhyphen"/>ſon, and particularly applied to the ſtate and condition of the Hearers.</p>
+            <p>Thus have you heard in part, that the ſound Doctrine here mentioned, is both healthfull and healing Phyſick; and the Diſeaſe of the later days is the refuſing and rejecting of it;
+<pb n="10" facs="tcp:168415:10"/>and ſet forth unto us in theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>They will not endure it,</hi> they will in no caſe ſwal<g ref="char:EOLhyphen"/>low or digeſt this<note n="(k)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hippoc. Aphor. l. <hi>2.</hi>
+               </note> 
+               <hi>Purging Pill:</hi> like unto a wayward and froward <hi>Patient,</hi> or rather a<note n="(l)" place="margin">Moleſtus eſt Medicus furen<g ref="char:EOLhyphen"/>ti phrenetico, &amp; pater in<g ref="char:EOLhyphen"/>diſciplinato filio, ille ligan<g ref="char:EOLhyphen"/>do, ille caeden<g ref="char:EOLhyphen"/>do, ſed ambo diligendo. Auguſt. ad Bonif. Comit. Epiſt. <hi>1.</hi>
+               </note> phrenetick and diſtracted perſon, that caſts away his Phyſick in the heat of his indignation; and as for his Phyſician, he will not ſuffer him to abide in the ſame Room, and in caſe he appears in his preſence, he ſpares not to beſpatter him with uncivil and unſavoury language, and in a fierce and furious manner with heavy and down<g ref="char:EOLhyphen"/>right blows, he falls foul upon his perſon.</p>
+            <p>This not enduring ſound Doctrine hints out and intimates theſe two Particulars:</p>
+            <p>Firſt, a diſallowing and diſapproving of it in their judgments, which they cenſure, and con<g ref="char:EOLhyphen"/>demn, as unſound and unprofitable.</p>
+            <p>The ſecond is, a diſplicency and diſpleaſure in the Affections, which makes them angry and teſty, pettiſh and peeviſh, and to vent their cho<g ref="char:EOLhyphen"/>lerick paſſion, as <hi>Ahab</hi> againſt <hi>Micaiah,</hi> 1 <hi>Kings</hi> 22.8. <hi>I hate him, for he doth not propheſie good con<g ref="char:EOLhyphen"/>cerning me, but evil:</hi> and yet <hi>Micaiah</hi> ſpake no other thing than what God put into his mouth; as he told the Meſſenger that was ſent unto him with this inſtruction, <hi>Behold, now the words of the Prophets declare good unto the King with one mouth: Let thy word I pray thee, be like the word of one of them, and ſpeak that which is good. And</hi> Micaiah <hi>ſaid, As the Lord liveth, What the Lord ſaith unto me, that will I ſpeak, Verſ.</hi> 13, 14.</p>
+            <pb n="11" facs="tcp:168415:10"/>
+            <p>There is a goodneſs of things in themſelves, and unto others. And Phyſick may be ſaid to be good in order to the natural ſtate and conſti<g ref="char:EOLhyphen"/>tution of the Body, or the diſtemper and Diſ<g ref="char:EOLhyphen"/>eaſe. The Word of God, that <hi>good Word of God,</hi> as the Apoſtle terms it, <hi>Heb.</hi> 6.5. is always good in it ſelf, and good unto us, even to a good and honeſt heart: <hi>Do not my words do good to him that walketh uprightly? Micah</hi> 2.7. But it is not good to our corrupt humors, and unlawfull luſts. And herein it fares with ſound Doctrine as it doth with wholeſome nouriſhment, which ſeems unpleaſant and unſavoury to an Aguiſh palate; and yet the fault is not in the meat, but in the mouth and taſte of the party. And the Rule of <hi>Aquinas</hi> is ſound and good,<note n="(m)" place="margin">Nihil verum putant, niſi quod ſuave est, nihil cre<g ref="char:EOLhyphen"/>dibile niſi quod poteſt incutere vo<g ref="char:EOLhyphen"/>luptatem, ne<g ref="char:EOLhyphen"/>mo rem veri<g ref="char:EOLhyphen"/>tate ponde<g ref="char:EOLhyphen"/>rat, ſed or<g ref="char:EOLhyphen"/>natu. Non cre<g ref="char:EOLhyphen"/>dunt ergo divinis, quia fuco carent. Lactant. l. <hi>5.</hi> c. <hi>1.</hi> Aquinas ſumma Theolog.</note> 
+               <hi>Non eſt ju<g ref="char:EOLhyphen"/>dicandum de rebus ſecundùm opinionem impiorum, ſicut nec de ſaporibus ſecundùm aeſtimationem aegro<g ref="char:EOLhyphen"/>torum,</hi> We are not to ſpend our judgments ac<g ref="char:EOLhyphen"/>cording to the common opinion of the wicked, no more than we judg of ſavour according to the diſeaſes, fancy and frowardneſs of ſick men.</p>
+            <p>The ſecond general part of the Text is the cauſe of the Diſeaſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">2. The ſecond part. The cauſe of the Diſeaſe, After their own Luſts.</note> 
+               <hi>After their own luſts.</hi> Their <hi>Luſts,</hi> their <hi>own</hi> Luſts.</p>
+            <p>There are natural, and there are morbid or ſickly deſires in the Body; A natural deſire in every creature after their proper food and nou<g ref="char:EOLhyphen"/>riſhment, thereby to preſerve their individual natures, and to prorogue and lengthen out their being to the utmoſt point and period, to propa<g ref="char:EOLhyphen"/>gate
+<pb n="12" facs="tcp:168415:11"/>and increaſe their kinde by natural genera<g ref="char:EOLhyphen"/>tion, that being mortal in themſelves, they may after a ſort prove immortal in their poſterity. But beſides the deſires of nature, there are mor<g ref="char:EOLhyphen"/>bid and ſickly deſires in the Body, which are ſometimes found in children that feed upon coals and dirt: and ſuch are the depraved long<g ref="char:EOLhyphen"/>ings of women with childe, called <hi>Pica</hi> by Phy<g ref="char:EOLhyphen"/>ficians, from a Bird of that name: and that be<g ref="char:EOLhyphen"/>cauſe the inconſtant and various deſires of na<g ref="char:EOLhyphen"/>ture, ſo miſguided by vitious humours, are well reſembled by the ſtrange mixture of white and black Feathers in that Bird.</p>
+            <p>Anſwerable to both theſe, there are both ſpi<g ref="char:EOLhyphen"/>ritual, and ſinfull, and ſickly deſires in the Soul.</p>
+            <p>There are ſpiritual deſires after divine and heavenly matters,<note place="margin">Two ſorts of deſires in the Soul: 1. Spiritual:</note> 
+               <hi>Thoſe things that are above, where Chriſt ſitteth at the right hand of God.</hi>
+            </p>
+            <p>And there are ſickly and ſinfull deſires in the Soul,<note place="margin">3. Sinfull, or Luſts.</note> for the matter, manner, meaſure, order, end, which are known by the name of Luſts, and are uſually taken in the worſer part; and as Phyſicians oft times take the <hi>Criſis</hi> of the <hi>Craſis</hi> and temper of the Body from the Stomack and Appetite of the party: even ſo may we judg of the ſtate of mens Souls by their deſires and luſts. That is one part of St. <hi>Paul</hi>'s deſcription of thoſe <hi>ſilly women, led captive by Seducers, laden with ſins, led away with divers luſts,</hi> 2 <hi>Tim.</hi> 3.6. And foreſhewing the Diſeaſe of the later Days in the Text, alleageth this as the proper cauſe, <hi>Their luſts, their own Luſts,</hi> their
+<pb n="13" facs="tcp:168415:11"/>private fancies and humours, <hi>carried about with every winde of Doctrine, toſſed to and fro;</hi> as this or the other thing ſuits beſt with their diſpoſiti<g ref="char:EOLhyphen"/>on. And this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or peculiar of theirs, is directly oppoſed to that <hi>catholick Doctrine</hi> that is common to the whole Church, wherein there is <hi>Unus Deus, &amp; una fides,</hi> one God, one Faith,<note place="margin">Beza in locum.</note> (as <hi>Beza</hi> well obſerves upon the place) and this one Faith, and their many Luſts, are every way in<g ref="char:EOLhyphen"/>compatible, and inconſiſtent, and cannot ſtand together.</p>
+            <p>And that you may the better conceive what theſe Luſts are, I ſhall branch them out into theſe three Particulars:
+<list>
+                  <item>
+                     <hi>1.</hi> Proud Ignorance.<note place="margin">Three ſorts of ſinfull luſts.</note>
+                  </item>
+                  <item>
+                     <hi>2.</hi> Wanton Curioſity.</item>
+                  <item>
+                     <hi>3.</hi> Sordid Covetouſneſs.</item>
+               </list>
+            </p>
+            <p>The firſt cauſe why men will not endure ſound Doctrine is the Luſt of <hi>Proud Ignorance,</hi>
+               <note place="margin">1. The firſt Luſt, Proud Ignorance.</note> 
+               <hi>If any man conſent not to wholeſome words, even the words of our Lord Jeſus Chriſt, He is proud, knowing nothing,</hi> 1 <hi>Tim.</hi> 6.3, 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, He is ſwoln big or puff'd up, as the word ſignifieth,<note n="(n)" place="margin">Grandis tu<g ref="char:EOLhyphen"/>mor contrarius eſt ſanitati. Quintil. Inſt. Orat.</note> and tumours and ſwellings are contrary to health and ſoundneſs, and are no leſs deſtructive to Soul, than Body: it is the property of <hi>Proud Ignorance</hi> to puff up mens ſpirits, like unto empty Bladders, that are blown with the winde. And whereas for the moſt part <hi>Knowledg puffeth up,</hi> as the <hi>Apoſtle</hi> tells us, 1 <hi>Cor.</hi> 8.1. yet are there ſome that are puff'd up out of Ignorance,
+<pb n="14" facs="tcp:168415:12"/>in whom Pride and Ignorance go hand in hand, as they are linked together in the Text, <hi>He is proud, knowing nothing.</hi> This makes them pre<g ref="char:EOLhyphen"/>ſume that they ſtand in no need of the publick Miniſtery, the onely outward and ordinary means of inſtruction: That they know all that is knowable, and <hi>have more underſtanding than their Teachers,</hi> as <hi>David</hi> affirms of himſelf. Nay more than ſo, this confident conceit and over-weening opinion of their gifts, tranſports ſome private men ſo far, as to deſert and quit their proper ſtation and calling, and though nei<g ref="char:EOLhyphen"/>ther of ſufficient arts and parts, no nor compe<g ref="char:EOLhyphen"/>tent abilities for the Miniſterial Function, to in<g ref="char:EOLhyphen"/>vade and ruſh upon it. Even as empty Carts run faſter than loaden Wains; and the leſſer Pinks, and lighter Pinnaces ſail ſwifter than the taller Ships of the greateſt bulk and burden. Like unto haſty <hi>Ahimaaz,</hi> they will needs be running; <hi>Let me alſo run,</hi> (ſo he ſpeaks unto <hi>Joab</hi>) though they have no tidings ready, 2 <hi>Sam.</hi> 18.22. <hi>And they run by the way of the Plain,</hi> as he did, <hi>Verſ.</hi> 23. the ſhorter, but the worſer way: and by that means they over-run many a <hi>Cuſhi,</hi> men of greater worth, and every way more able than themſelves. Or like unto thoſe <hi>Jewiſh</hi> Doctors, whom St. <hi>Paul</hi> juſtly taxes, 1 <hi>Tim.</hi> 1.7. <hi>Deſiring to be Teachers of the Law, underſtanding neither what they ſay, nor whereof they affirm.</hi>
+               <note n="(o)" place="margin">Gellius, l. <hi>1.</hi> c. <hi>15.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which in plain <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> is, They ſay, they know not what.</p>
+            <p>A ſecond Luſt is <hi>Wanton Curioſity,</hi>
+               <note place="margin">2. The ſecond Luſt is Wan<g ref="char:EOLhyphen"/>ton Curioſity.</note> which cauſes men to ſlight plain and profitable mat<g ref="char:EOLhyphen"/>ters,
+<pb n="15" facs="tcp:168415:12"/>and to diſdain, and deſpiſe ſound and ſaving Truths. Like unto the People of <hi>Iſrael</hi> of old, that loathed their <hi>Manna,</hi> though it was the <hi>Bread of Heaven,</hi> and the <hi>Food of Angels,</hi> yet away with this dry <hi>Manna,</hi> give them <hi>Fleſh to eat.</hi> They muſt be fed with ſome myſterious points of Re<g ref="char:EOLhyphen"/>ligion, either enigmatical Prophecies out of the <hi>Old Teſtament,</hi> or dark Riddles of the <hi>Revela<g ref="char:EOLhyphen"/>tion,</hi> as yet unrevealed; Chriſt's perſonal Reign upon Earth; A fifth Monarchy, or ſomewhat of the like nature. They muſt be amuſed and amazed with ſublime and lofty ſpeculations, ſtrange and uncouth<note n="(p)" place="margin">Ad aeternam felicitatem nos vocat De<g ref="char:EOLhyphen"/>us non per dif<g ref="char:EOLhyphen"/>ficilces quaeſtio<g ref="char:EOLhyphen"/>nes. Hilarius. Curioſitatem odit Deus, nec vult nos eſſe Curiſtas &amp; Quaeristas. Crucifigamus hauc peſtem, Quare. Lutherus in Gen. c. <hi>19.</hi>
+               </note> Queſtions; being not onely <hi>in love</hi> with, but even <hi>ſick</hi> of them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as St. <hi>Paul</hi> phraſeth it, 1 <hi>Tim.</hi> 6.4. A fond dotage, or rather a languiſhing ſickneſs of the Soul.</p>
+            <p>This is that makes ſo many <hi>Athenians</hi> in Re<g ref="char:EOLhyphen"/>ligion, and to hanker after<note n="(q)" place="margin">Non eſt ſci<g ref="char:EOLhyphen"/>ens hodiè qui novitates non invenit. Alv. Pelag de Plan<g ref="char:EOLhyphen"/>ctu Eccl. l. <hi>2.</hi>
+               </note> 
+               <hi>New Lights,</hi> and new Doctrines, after their example, who when St. <hi>Paul</hi> preached unto them Jeſus and the Re<g ref="char:EOLhyphen"/>ſurrection, began to queſtion him in this manner, <hi>May we know what this new Doctrine whereof thou ſpeakeſt is, Acts</hi> 17.19. This was their cuſtoma<g ref="char:EOLhyphen"/>ry and common practice; for <hi>all the</hi> Athenians <hi>ſpent their time in nothing elſe, but either to tell or hear ſome new thing, Verſ.</hi> 21.</p>
+            <p>And were there nothing more in a Doctrine, but the meer novelty, this alone were reaſon
+<pb n="16" facs="tcp:168415:13"/>enough to miſdoubt it, and to render it up unto ſuſpicion: for that known Rule of <hi>Tertullian</hi> holds ſound, for the moſt part,<note n="(r)" place="margin">Id verum &amp; dominicum quod prius, ex<g ref="char:EOLhyphen"/>traneum &amp; falſum quod poſterins. Haereſes non tam falſitas revincit quàm novitas. Tertul. Praeſcript. adv. Haeret.</note> That is true which is moſt ancient, and that erroneous and falſe which is of later date. And both Here<g ref="char:EOLhyphen"/>ticks and Hereſies are not more ſtrongly con<g ref="char:EOLhyphen"/>futed and confounded from their falſhood, than by Novelty.</p>
+            <p>The third and laſt cauſe why men will not en<g ref="char:EOLhyphen"/>dure ſound Doctrine is the Luſt of Sordid Co<g ref="char:EOLhyphen"/>vetouſneſs.<note place="margin">3. The third Luſt, Sordid Covetouſneſs.</note> There is not any ſin more oppoſite to the profeſſion and practice of Religion, nor the reverend and reſpective hearing of the Word, than that of Covetouſneſs. It was the blemiſh and bane of <hi>Ezekiel</hi>'s Hearers, and moved them to bejeer him, and to laugh him to ſcorn, <hi>Ezek.</hi> 33.31. <hi>And they come unto thee, as the people cometh, and they ſit before thee, as my people, and they hear thy words, but they will not do them: for with their mouths they make jeſts, but their heart go<g ref="char:EOLhyphen"/>eth after their Covetouſneſs.</hi> Our bleſſed <hi>Saviour</hi> himſelf eſcaped not the flouts and ſcoffs of the <hi>Phariſees,</hi> and it was their Covetouſneſs that was in fault, <hi>Luke</hi> 16.14. <hi>And the Phariſees alſo (who were covetous) heard all theſe things, and they derided him.</hi> How many are there, even among us, that do not onely quarrell the <hi>Perſons</hi> and <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> of the <hi>Miniſters,</hi> but except alſo againſt the <hi>Calling of the Miniſtery?</hi> And would you know the true cauſe? Is it not their means, and maintenance, that is as a ſcourge in their ſides,
+<pb n="17" facs="tcp:168415:13"/>and as thorns in their eyes? Do they not com<g ref="char:EOLhyphen"/>plain of the payment of their Tithes, as a heavy burthen too heavy for them to bear? And do they not endeavour that <hi>Eccleſiaſtical Livings</hi> ſhould want a ſufficient Livelihood, and ſo prove no Livings at all? But rather like unto the Diets of ſick men, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Demoſth. Phil.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as the <hi>Orator</hi> ſpeaks of them) which neither afford a man life, nor yet will give him leave to die. Therein after a ſort juſtifying the virulent but unjuſt crimination of our <hi>Romiſh</hi> Adverſa<g ref="char:EOLhyphen"/>ries; That our Doctrine is <hi>Negative,</hi> our Religi<g ref="char:EOLhyphen"/>on is <hi>Ablative.</hi> How far are theſe men from that heroical and religious reſolution of King <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> who when <hi>Araunah</hi> offered him his threſh<g ref="char:EOLhyphen"/>ing-floor and his Oxen, as a free Gift, would in no caſe accept of it, <hi>Nay, but I will ſurely buy it of thee at a price, neither will I offer a Burnt<g ref="char:EOLhyphen"/>offering to the Lord my God, of that which doth coſt me nothing,</hi> 2 <hi>Sam.</hi> 24.24. Whereas we on the other ſide, are every way unwilling to receive ought of the hand of God, though never ſo un<g ref="char:EOLhyphen"/>valuable and prizeleſs a mercy, that ſhall coſt us any thing. Fain would men have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as <hi>Nazianzen</hi> ſtiles it) A Goſpel that is coſt-free, without expence and charge. How far are men from hearkening to the wiſe mans counſel, <hi>Prov.</hi> 3.9. <hi>Honour the Lord with thy ſub<g ref="char:EOLhyphen"/>ſtance.</hi> Who though they can be content <hi>to draw near to God with their mouth, and to honour him with their lips,</hi> with the <hi>Jews</hi> of old, yet will they be very hardly perſwaded to honour him
+<pb n="18" facs="tcp:168415:14"/>with their ſubſtance. Herein they plead Pre<g ref="char:EOLhyphen"/>ſcription and Exemption, and crave that Privi<g ref="char:EOLhyphen"/>lege for their god <hi>Mammon,</hi> that <hi>Naaman</hi> did for his bowing in the Houſe of <hi>Rimmon,</hi> 2 <hi>Kings</hi> 5.18. <hi>In this thing the Lord pardon thy ſervant, The Lord pardon thy ſervant in this thing.</hi>
+            </p>
+            <p>The third general part of the Text is the <hi>Signs</hi> and <hi>Symptomes</hi> of the Diſeaſe,<note place="margin">3. The third part. The Signs &amp; Symptomes of the Diſ<g ref="char:EOLhyphen"/>eaſe, two. 1. The firſt Symptome, Having itch<g ref="char:EOLhyphen"/>ing Ears.</note> and they are two.</p>
+            <p>The firſt <hi>Symptome</hi> is in the <hi>Ear, Having itch<g ref="char:EOLhyphen"/>ing Ears.</hi> The Itch is a natural infirmity and ail<g ref="char:EOLhyphen"/>ment in the Body, which is ſeemingly allayed and eaſed, with the rubbing and ſcratching of it, but repays the ſhort pleaſure with a long and laſting pain, and oft times draws bloud after it.</p>
+            <p>Such a ſpiritual weakneſs is the <hi>Itch</hi> of the Ear, which ſeeks to be ſcratch'd and claw'd with pick'd phraſes, queint ſentences, and ſtrong lines, which have not the property of Phyſick to cure the Diſtempers of the Soul, but ſerve in ſtead of an Ointment to ſmooth the Skin, to ſupple the Joints, and to recreate and refreſh the Body.<note n="(ſ)" place="margin">Benè olet un<g ref="char:EOLhyphen"/>guentum, benè olet &amp; phar<g ref="char:EOLhyphen"/>macum: hoc tantùm dele<g ref="char:EOLhyphen"/>ctat, illud ve<g ref="char:EOLhyphen"/>rò prodeſt. Plutarch.</note> There is this difference betwixt an <hi>Ointment</hi> and <hi>Phyſick,</hi> though both are well ſented, yet an <hi>Ointment</hi> delights onely, whereas <hi>Phyſick</hi> brings profit with it.<note n="(t)" place="margin">Pruritus au<g ref="char:EOLhyphen"/>ditûs non ſa<g ref="char:EOLhyphen"/>nam cupit doctri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, ſed confricationem audi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ûs, ſed delectationom audiendo, Cajetan. in locum.</note> But the itching Ear preferres pleaſure before profit, prizeth an Ointment above Phyſick, and makes choice of ſuch <hi>Phyſicians,</hi> which <hi>tickle the Ear,</hi> though they ne<g ref="char:EOLhyphen"/>ver
+<pb n="19" facs="tcp:168415:14"/>
+               <hi>cure</hi> their <hi>wounds,</hi>
+               <note n="(u)" place="margin">Aegrotus non quaerit Medi<g ref="char:EOLhyphen"/>cum elegantem ſed ſanantem. Seneca.</note> which no ſick men will do beſides. The palliated cure of any ſpiritual <hi>Emperick</hi> or <hi>Mountebank</hi> are beſt accepted; who <hi>heal the hurt of their ſouls ſlightly, ſaying, Peace, Peace, where there is no Peace, Jer.</hi> 6.14. And they ſay to their Teachers, as the rebellious <hi>Jews</hi> of old to their <hi>Prophets, Iſai</hi> 30.10. <hi>Propheſie not unto us right things, Speak ſmooth things, Propheſie deceits.</hi>
+            </p>
+            <p>It was the ſaying of one of our own, who was ſo far in love with it, that he deſired it might remain as a Memorial upon his Monument,<note n="(x)" place="margin">Pruritus disputandi Eccleſiae ſcabi<g ref="char:EOLhyphen"/>es. <hi>Sir</hi> Henry Wotton.</note> 
+               <hi>The Itch of Diſputation is the Scab of the Church.</hi> And what he ſpake of the Itch of Diſputation, is moſt true of the Itch of the Ear in the general; it is the Scab of Religion, the Scab of the Church, a ſpiritual Leproſie, that overſpreads the whole man.</p>
+            <p>The ſecond ſign or <hi>Symptome</hi> of this Diſeaſe,<note place="margin">2. The ſecond Symptome, They ſhall heap to them<g ref="char:EOLhyphen"/>ſelves Teach<g ref="char:EOLhyphen"/>ers.</note> is the <hi>ſcratching</hi> and <hi>clawing</hi> of the <hi>itching Ear,</hi> with a multiplied variety of Inſtructors, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>They ſhall heap to themſelves Teachers. Ipſi ſibi,</hi> (as <hi>Beza</hi> renders it) that is,<note n="(a)" place="margin">Scientes ac prudentes ſibi accerſere ſuae perniciei inſtrumenta. Beza in locum.</note> They ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l wittingly and willingly procure the Inſtruments of their own deſtruction; (as he gloſſes upon the place.)</p>
+            <p>This <hi>Heap of Teachers</hi> may be conceived in a double reference:<note place="margin">A Heap in a double refe<g ref="char:EOLhyphen"/>rence.</note>
+            </p>
+            <pb n="20" facs="tcp:168415:15"/>
+            <list>
+               <item>1. The quantity. 1. The multitude and num<g ref="char:EOLhyphen"/>ber.</item>
+               <item>2. The quality. 2. The condition and qua<g ref="char:EOLhyphen"/>lification of their Tea<g ref="char:EOLhyphen"/>chers.</item>
+            </list>
+            <p>Firſt,<note place="margin">1. The mul<g ref="char:EOLhyphen"/>titude and number of them.</note> this <hi>Heap of Teachers</hi> may be referred to their multitude or number, when they are multi<g ref="char:EOLhyphen"/>plied unneceſſarily, and without cauſe, which is againſt the Rule of common Reaſon; who though they have never ſo able and painfull a Paſtor of their own, and a company of ortho<g ref="char:EOLhyphen"/>dox and faithfull Miniſters round about them, yet not ſatisfied and content herewith, they ad<g ref="char:EOLhyphen"/>mire and run agadding after ſtrangers: like un<g ref="char:EOLhyphen"/>to <hi>ſilly Doves without heart,</hi> as the <hi>Prophet</hi> ſpeaks of <hi>Ephraim, Hoſea</hi> 7.11. That forſake their own Dove-cote, and build in the next Barn or Steeple. And herein they bewray a ſpiritual kinde of covetouſneſs, and ſay of their <hi>Heap of Teachers,</hi> as he in the <hi>Poet</hi> of his full Bags and Cheſts,</p>
+            <p>
+               <hi>Verùm, dulce eſt de magno tollere acervo.</hi>
+            </p>
+            <p>O! it is a pleaſant thing to take whole hand<g ref="char:EOLhyphen"/>fulls out of a great heap.</p>
+            <p>Secondly,<note place="margin">2. The qua<g ref="char:EOLhyphen"/>lification and condition of them.</note> this <hi>Heap of Teachers</hi> may relate to their qualification and condition, when there is a multiplication of ſuch as are inſufficient and un<g ref="char:EOLhyphen"/>worthy. And ſo<note n="(b)" place="margin">Magìs coa<g ref="char:EOLhyphen"/>cervatio eſt, ſi fiant quatuor indigni quàm centum boni, Aquin. in loc.</note> 
+               <hi>Aquinas</hi> expounds the place, Then may it more properly be ſaid to be
+<pb n="21" facs="tcp:168415:15"/>
+               <hi>an Heap of Teachers,</hi> if there be four bad, than an hundred good.</p>
+            <p>There are three marks and characters of this <hi>Heap of Teachers</hi>
+               <list>
+                  <item>1. Young and youthfull Teachers.<note place="margin">Three chara<g ref="char:EOLhyphen"/>cters of them</note>
+                  </item>
+                  <item>2. Ignorant and unlearned Teachers.</item>
+                  <item>3. Falſe and flattering Teachers.</item>
+               </list>
+            </p>
+            <p>The firſt character of theſe <hi>Teachers,</hi>
+               <note place="margin">1. The firſt characters, Young and youthfull Teachers.</note> they are young and <hi>youthfull: A Biſhop muſt not be a Novice,</hi> that is St. <hi>Paul</hi>'s charge to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 3.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he ſays not a young man, but a Novice. A Plant that is new-ſet in the Nur<g ref="char:EOLhyphen"/>ſery of the <hi>Univerſity,</hi> or the <hi>Garden</hi> of the <hi>Church,</hi> that hath not taken any deep rooting, nor grown up to any great heighth; and ſo can<g ref="char:EOLhyphen"/>not bring forth much fruit. There is no build<g ref="char:EOLhyphen"/>ing with green and unſeaſoned <hi>Timber.</hi> And to lay the burden of the Paſtoral charge upon the ſhoulders of a Novice, is all<note n="(c)" place="margin">Greg. de cu<g ref="char:EOLhyphen"/>ra Paſtor. part. <hi>3.</hi> c. <hi>16.</hi>
+               </note> one, ſaith <hi>Gre<g ref="char:EOLhyphen"/>gory,</hi> as to raiſe the Roof of an Houſe upon the walls, while they are yet green and tender; this is to build unto ruine, and to downfall the whole Frame; and yet theſe <hi>Novice Teachers</hi> are the men, whom they moſt reſpect and reve<g ref="char:EOLhyphen"/>rence, and are every way as inordinate in their loves and likings of green years and green Heads, as women with childe in their longings after green fruit. For albeit youth is not to be deſpiſed, as St. <hi>Paul</hi> adviſeth <hi>Timothy,</hi> 1 <hi>Tim.</hi> 4.12. <hi>Let no man deſpiſe thy youth.</hi> And the
+<pb n="22" facs="tcp:168415:16"/>reaſon is given by <hi>Ignatius,</hi>
+               <note n="(d)" place="margin">Ignat. Epiſt. ad Magneſ.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Then is not youth to be diſdained, when it is devoted and dedicated unto God, and ſeaſoned with ſanctity and holineſs; yet nevertheleſs youth hath not that ballaſt of knowledg and learning that<note n="(e)" place="margin">Bos laſſus fortiùs fig it pedem. Hieron. ſenex ad Aug. Juvenem. Aug. Ep. <hi>13.1.</hi>
+               </note> ſolid gravity and experience of elder years. And young <hi>Elihu</hi> was not miſtaken, when he thus thought and taught, <hi>Job</hi> 32.7. <hi>I ſaid, Days ſhould ſpeak, and multitude of years ſhould teach wiſdom.</hi> There is as great a difference betwixt Age and Youth, as betwixt old and new Wine; and though new Wine be the more brisk and ſparkling, yet the old hath the deeper colour, and the greater ſtrength. And that Age is to be preferred be<g ref="char:EOLhyphen"/>fore Youth we may learn from the Parable of old and new Wine, <hi>Luke</hi> 5.39. <hi>No man ha<g ref="char:EOLhyphen"/>ving drunk old Wine, ſtraightway deſireth new:</hi> for he ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The old is better.</hi>
+            </p>
+            <p>A ſecond character of this <hi>Heap of Teachers,</hi>
+               <note place="margin">2. The ſecond character, Ignorant and unlearned Teachers.</note> They are <hi>ignorant and unlearned.</hi> A ſtrange kinde of Mothers, who <hi>bring forth and give ſuck</hi> too, before they <hi>conceive.</hi> They teach what they never learned, and are the Maſters of the un<g ref="char:EOLhyphen"/>learned, ere that they ever were the Scholars of the learned, as<note n="(f)" place="margin">Nimiùm multi imperi<g ref="char:EOLhyphen"/>torum Magiſtri fiunt, pr iſ<g ref="char:EOLhyphen"/>quàm fuerint Doctorum Di<g ref="char:EOLhyphen"/>ſcipuli. Hieron. Ep. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> St. <hi>Hierom</hi> complains of too too many in his Time. And to make choice of ſuch kinde of Teachers is to imploy a lame Meſſenger, to command him to run, and at the ſame time to cut off his Legs. It is the wiſe mans compariſon, <hi>Prov.</hi> 26.6. <hi>He that ſendeth
+<pb n="23" facs="tcp:168415:16"/>by the hand of a Fool, cutteth off the Feet.</hi> This is to make uſe of <hi>blinde Guides;</hi> and <hi>if the blinde lead the blinde, they will both fall into the Ditch.</hi>
+               <note n="(g)" place="margin">Si Sacerdos eſt, ſciat legem Domini, ſi igno<g ref="char:EOLhyphen"/>ret legem Do<g ref="char:EOLhyphen"/>mini, ipſe ar<g ref="char:EOLhyphen"/>guit ſe non eſſe Sacerdotem Domini. Hier. ſuper Agg. c. <hi>2.</hi>
+               </note> How can they prove good <hi>Seers,</hi> that want their eyes? Or afford light unto others that are darkneſs themſelves? as if darkneſs ſhould bring forth light; <hi>Et nox nocti indicaret ſcientiam,</hi> and night unto night ſhould utter knowledg. And of ſuch <hi>Teachers</hi> as theſe, that Prophecy of <hi>Mi<g ref="char:EOLhyphen"/>cah</hi> is verified and made good, <hi>Micah</hi> 3.6. <hi>There<g ref="char:EOLhyphen"/>fore night ſhall be unto you, that ye ſhall not have a viſion; and it ſhall be dark unto you, that ye ſhall not divine,</hi> (or prove ſound and able Divines) <hi>The Sun ſhall go down over the Prophets, and the day ſhall be dark over them.</hi>
+            </p>
+            <p>The third and laſt character of this <hi>Heap of Teachers,</hi> They are <hi>falſe and flattering,</hi>
+               <note place="margin">3. The third character, Falſe and flattering Teachers.</note> who <hi>daub with untempered mortar,</hi> and parget a rotten Poſt, or a ruinous wall, with a fair cruſt and out-ſide, as deceitfull <hi>Builders:</hi> and <hi>ſow Pillows under mens arm-holes,</hi> that they may ſleep and ſnort more ſecurely, <hi>Ezek.</hi> 13.10. That<note n="(h)" place="margin">Et quoniam mel in Dei ſa<g ref="char:EOLhyphen"/>crificiis non offertur, nimia dulcedo arte mutata eſt, &amp; quâdam pipe<g ref="char:EOLhyphen"/>ris auſteritate condita, ap ud Deum nil tan<g ref="char:EOLhyphen"/>tum ſuave pla<g ref="char:EOLhyphen"/>cet, niſi quod babet in ſe ali<g ref="char:EOLhyphen"/>quid mordacis veritatis. Hieronym. de legal. ſacrific.</note> ſacrifice with <hi>Honey</hi> in ſtead of <hi>Salt;</hi> and offer<note n="(i)" place="margin">Offerunt coccum, ſed non bis tinctum; non duplicatum. Origen. in Exod.</note> Red, but not Scarlet; the Dye of their words go not deep enough, but cocker, and cheriſh, and ſooth, and ſmooth men up in their ſins; ſuch were the <hi>Teachers</hi> in <hi>Micah</hi>'s time, and ours, and like unto parallel lines, they both go together, <hi>Micah</hi> 2.11. <hi>If a man walking in the ſpirit and falſhood dody, he ſhall even be the Prophet of this People.</hi>
+            </p>
+            <pb n="24" facs="tcp:168415:17"/>
+            <p>The fourth general part,<note place="margin">4. The fourth part, The ef<g ref="char:EOLhyphen"/>fect of the Diſeaſe.</note> is the <hi>Effect</hi> of the <hi>Diſeaſe,</hi> and that is double; wherein (as in every motion) there are two Terms.</p>
+            <list>
+               <item>
+                  <hi>1. There is the</hi> Terminus à quo, [They ſhall turn away their Ears from the Truth.]</item>
+               <item>
+                  <hi>2. There is the</hi> Terminus ad quem, [And ſhall be turned after Fables.]</item>
+            </list>
+            <p>There are two things conſiderable in every ſin, 1. An averſion from God, an immutable and unchangeable good. 2. And a converſion to the creature, a flitting and a fading vanity: both theſe are very obſervable, and inſeparably joyned together in the effects of this ſin. <hi>They ſhall turn away their Ears from the Truth;</hi> There is an averſion and falling off from God; and <hi>ſhall be turned after Fables,</hi> that is a <hi>converſion</hi> or falling on to the creature. For as there is no <hi>vacuum</hi> or emptineſs in nature, but it is always re<g ref="char:EOLhyphen"/>pleniſhed and filled with ſome kinde of Body, even ſo there is no vacuity of ſin in the Soul: and no ſooner hath the minde taken the leave, and bid Adieu unto the Truth, but it is forth<g ref="char:EOLhyphen"/>with entertained and taken up with fond Fables, dangerous Doctrines, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, damnable Hereſies, or Hereſies of damnation, as St. <hi>Peter</hi> ſtiles them, <hi>To the denying of the Lord that bought them,</hi> in his ſeveral natures, as God and Man; yea to the denying of each perſon in the bleſſed Trinity: and hereof the preſent Times afford us moſt ſad and wofull experieuce, wherein men
+<pb n="25" facs="tcp:168415:17"/>having once ſhaken hands with fundamental and ſaving Truths, they are immediately proſelyted and perverted to groſs errours of all ſorts and ſizes, they turn <hi>Anabaptiſts, Familiſts, Quakers, Ranters,</hi> and what not, and ſo bring upon them<g ref="char:EOLhyphen"/>ſelves <hi>quick deſtruction.</hi> And as this follows by a ſpiritual kinde of neceſſity, there being no <hi>va<g ref="char:EOLhyphen"/>cuum</hi> in ſin, no more than in nature; ſo it chiefly comes to paſs and takes effect through the juſt judgment of God, receiving in themſelves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>That recompence of their errour</hi> that was meet, as St. <hi>Paul</hi> ſpeaks of the <hi>Gentiles, Rom.</hi> 1.27. <hi>And becauſe they received not the love of the Truth, that they might be ſaved,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for this cauſe God ſhall ſend them ſtrong de<g ref="char:EOLhyphen"/>luſions, that they might believe a Lye.</hi> As the ſame Apoſtle tells the <hi>Theſſalonians,</hi> 2 <hi>Theſſ.</hi> 2.10, 11. <hi>They that will not believe this Truth, are juſtly gi<g ref="char:EOLhyphen"/>ven over to believe</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>That great and prodi<g ref="char:EOLhyphen"/>gious Lye of Antichriſtian Doctrine.</hi> And<note n="(k)" place="margin">Quia nox faciunt bona quae cogno<g ref="char:EOLhyphen"/>ſcunt, non co<g ref="char:EOLhyphen"/>gnoſcunt mala quae faciunt. Auguſt.</note> ſee<g ref="char:EOLhyphen"/>ing they do not the good which they know, they are ſo ſeduced by the ſpirit of ignorance and er<g ref="char:EOLhyphen"/>rour, that they ſhall not know the evil that they do.</p>
+            <p>But if any demand and ask concerning the time, when their Diſeaſe ſhall be in the <hi>Paroxyſm,</hi>
+               <note place="margin">5. The time of the Diſ<g ref="char:EOLhyphen"/>eaſe, the fifth part of the Text.</note> in the full heat and heighth, and propound the Diſciples queſtion touching the deſtruction of <hi>Jeruſalem, Matth.</hi> 24.3. <hi>Tell us when ſhall theſe things be?</hi> St. <hi>Paul</hi> ſhall anſwer the queſtion out of the Text, <hi>For the time ſhall come.</hi> This he ſpake full ſixteen hundred years ago, and what was then a <hi>Prophecy</hi> and a Prediction of a
+<pb n="26" facs="tcp:168415:18"/>thing to come, is now a <hi>Hiſtory</hi> and a Relation of what is paſt. And I may a little alter St. <hi>Paul</hi>'s words, and turn his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> into <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The time ſhall come,</hi> into The time is come, and apply and take up our <hi>Saviours</hi> words to his Countreymen at <hi>Nazareth, Luke</hi> 4.21. <hi>This day is this Scripture ful<g ref="char:EOLhyphen"/>filled in your ears.</hi> And it may be there are ſome Readers that will make good St. <hi>Paul</hi>'s <hi>Prophecy,</hi> and <hi>will not endure ſound Doctrine,</hi> either Text or Sermon. Like unto thoſe of the <hi>Popiſh</hi> party,<note n="(l)" place="margin">Joan. Manl. Collect.</note> whom the <hi>Frier</hi> juſtly reproved, and told him plainly of it, That the Truth he preached was like Holy Water which every one deſired and called for with a great deal of earneſtneſs; yet when the Sexton caſt it on them, and ſprink<g ref="char:EOLhyphen"/>led them therewith, they would turn their backs upon it. And if there be any ſuch, let them make inquiry and narrow ſearch into the cauſe of the Diſeaſe, and look to their luſts. Let them ſee if there be not in them, a luſt of proud igno<g ref="char:EOLhyphen"/>rance, or wanton curioſity, or ſordid covetouſ<g ref="char:EOLhyphen"/>neſs. Let them examine and try it by the ſeve<g ref="char:EOLhyphen"/>ral ſigns and ſymptomes, The Itch of the Ear, and the heaping to themſelves Teachers, young and youthfull Teachers, ignorant and unlearned Teachers, falſe and flattering Teachers: and let them take heed and beware in the laſt place of the lamentable effects of it, <hi>They ſhall turn away their Ears from the Truth, and ſhall be turned after Fables.</hi>
+            </p>
+            <p>But in caſe men will not <hi>endure ſound Doctrine,</hi>
+               <note place="margin">The applica<g ref="char:EOLhyphen"/>tion.</note> muſt the Miniſters of God prove mealy-mouth'd, and be as men <hi>in whoſe mouths there are no reproofs.</hi>
+               <pb n="27" facs="tcp:168415:18"/>Or ſhall they take up the Prophet <hi>Jeremy</hi>'s reſolu<g ref="char:EOLhyphen"/>tion, <hi>Jer.</hi> 20.9. <hi>Then I ſaid, I will not make mention of him, nor ſpeak any more in his Name.</hi> Nay ra<g ref="char:EOLhyphen"/>ther, let them attend and obſerue <hi>Ezekiel</hi>'s charge, <hi>Ezek.</hi> 2.7. <hi>And thou ſhalt ſpeak my words un<g ref="char:EOLhyphen"/>to them, whether they will hear, or whether they will forbear, for they are moſt rebellious.</hi> The Word of God muſt be ſpoken, and ſounded forth both from the Pulpit and the Preſs, whether men will hear,<note n="(m)" place="margin">Mens boni ſtudii ac pii voti, etiamſi effectum non invenerit coepti operis, habet tamen praemi<g ref="char:EOLhyphen"/>um voluntatis. Salvian. de Gubern. Dei Praefat.</note> or whether they will forbear; and ſo much the rather, when men ſtop their ears, and turn their backs upon it. <hi>If the Iron be blunt, there muſt be put to more ſtrength, Eccleſ.</hi> 10.10. The more<note n="(n)" place="margin">Graviſſimus nodus in ligno non poteſt ex<g ref="char:EOLhyphen"/>pelli niſi gra<g ref="char:EOLhyphen"/>viſſimo oppreſ<g ref="char:EOLhyphen"/>ſorio. Ambroſe.</note> knotty and croſs-grain'd the Timber is, the more ſharp and ſtrong muſt the Wedges be, and the forcible blows muſt be re<g ref="char:EOLhyphen"/>doubled and repeated; and the more thwart and oppoſite men declare themſelves unto ſound Doctrine, the Miniſters of God muſt be the more importunate and vehement in the preſſing and urging of it: that is the ground of the Apoſtles exhortation in the words before the Text, and is noted out unto us in the Particle <hi>[For]</hi> the firſt word of the Text. <hi>Preach the Word, Be inſtant in ſeaſon, and out of ſeaſon, Re<g ref="char:EOLhyphen"/>prove, Rebuke, Exhort, with all long-ſuffering and Doctrine,</hi> 2 <hi>Tim.</hi> 4.2. <hi>For the time will come, that they will not endure ſound Doctrine.</hi> And it is a ſtrange kinde of <hi>[For;]</hi> as if the Apoſtle ſhould argue in this manner, Seeing men ſtop their ears like the deaf Adder, <hi>Cry aloud and ſpare not,</hi> and cauſe them to hear whether they will or no: and being fallen into a ſpiritual <hi>Lethargy,</hi> a deep and
+<pb n="28" facs="tcp:168415:19"/>dead ſleep, labour to awaken and to arowze them up: and ſith<note n="(o)" place="margin">Mundus ſe<g ref="char:EOLhyphen"/>neſcens patitur Phantaſias. Gerſon. contra ſuperſtitioſos.</note> in this fancy-full Age of the World men are wholly given over to Dreams and Dotages, imploy and improve both power and parts to the utmoſt of your ability to diſ<g ref="char:EOLhyphen"/>abuſe and undeceive them of their errours.</p>
+            <p>And give me leave to apply it to my Bre<g ref="char:EOLhyphen"/>thren of the Miniſtery,<note place="margin">The concluſi<g ref="char:EOLhyphen"/>on.</note> and to ſpeak it home to my ſelf and others in the <hi>Apoſtles</hi> words, <hi>Preach the Word, Be inſtant in ſeaſon, out of ſeaſon, Re<g ref="char:EOLhyphen"/>prove, Rebuke, Exhort, with all long-ſuffering and Doctrine.</hi> And the reaſon is here rendred in the words of the Text, <hi>For the Time will come, when they will not endure ſound Doctrine, but after their own Luſts ſhall they heap to themſelves Teachers, having itching ears. And they ſhall turn away their ears from the Truth, and ſhall be turned after Fables.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
